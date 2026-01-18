@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=140" />
 </p>
+
 
 # 💫 About Me:
 Computer science student interested in backend systems, problem-solving, and software fundamentals.
