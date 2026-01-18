@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer;DSA+Focused;Learning+by+Building;Breaking+Code+to+Understand+It" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Data Structures & Algorithms, backend development and sharpening my problem-solving skills.<br><br>🛠️ I’m looking to collaborate on  <br>Beginner-to-intermediate backend projects and small open-source contributions.<br><br>🤝 I’m looking for help with  <br>System design basics, writing cleaner code and understanding real-world backend workflows.<br><br>🌱 I’m currently learning  <br>JavaScript, Node.js and core computer science fundamentals.<br><br>⚡ Fun fact  <br>I enjoy breaking code more than writing it.<br>
 
