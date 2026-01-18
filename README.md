@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=140" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg" />
 </p>
-
 
 # 💫 About Me:
 Computer science student interested in backend systems, problem-solving, and software fundamentals.
