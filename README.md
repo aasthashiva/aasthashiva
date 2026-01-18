@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg" />
+  <img src="https://raw.githubusercontent.com/aasthashiva/aasthashiva/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 # 💫 About Me:
 Computer science student interested in backend systems, problem-solving, and software fundamentals.
