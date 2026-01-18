@@ -3,8 +3,11 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on  <br>Data Structures & Algorithms, backend development and sharpening my problem-solving skills.<br><br>🛠️ I’m looking to collaborate on  <br>Beginner-to-intermediate backend projects and small open-source contributions.<br><br>🤝 I’m looking for help with  <br>System design basics, writing cleaner code and understanding real-world backend workflows.<br><br>🌱 I’m currently learning  <br>JavaScript, Node.js and core computer science fundamentals.<br><br>⚡ Fun fact  <br>I enjoy breaking code more than writing it.<br>
+Computer science student interested in backend systems, problem-solving, and software fundamentals.
+Currently focused on data structures, algorithms, and understanding how real-world backend workflows operate.
 
+I prefer breaking code, tracing failures, and fixing root causes over building flashy demos.
+Learning JavaScript, Node.js, and core CS concepts with a long-term mindset.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aastha-upadhyay-770918325) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@upadhyayaastha40) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upadhyayaastha40@gmail.com) 
