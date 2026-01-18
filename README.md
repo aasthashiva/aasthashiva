@@ -9,7 +9,7 @@ Currently focused on data structures, algorithms, and understanding how real-wor
 I prefer breaking code, tracing failures, and fixing root causes over building flashy demos.
 Learning JavaScript, Node.js, and core CS concepts with a long-term mindset.
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aastha-upadhyay-770918325) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@upadhyayaastha40) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upadhyayaastha40@gmail.com) 
 
 # Tech Stack:
