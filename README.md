@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aasthashiva/aasthashiva/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
 </p>
-
 
 # 💫 About Me:
 Computer science student interested in backend systems, problem-solving, and software fundamentals.
