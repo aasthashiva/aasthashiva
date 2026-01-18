@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=4000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Working+on+backend+fundamentals▍" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
 </p>
 
 # 💫 About Me:
